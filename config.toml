@@ -1,4 +1,4 @@
-baseURL = "http://www.peterchai.coluk"
+baseURL = "https://www.peterchai.co.uk"
 title = "Peter Chai"
 theme = "hugo-coder"
 languageCode = "en"
